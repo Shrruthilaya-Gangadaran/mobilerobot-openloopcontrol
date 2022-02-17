@@ -93,9 +93,10 @@ if __name__ == '__main__':
     print("Stopped video streaming...")
     ep_robot.close()
 ~~~
+## MobileRobot Image:
+![](robomaster.png)
 
 ## MobileRobot Movement Video:
-
 Video link : https://youtu.be/ROj2a1_ZUPw
 
 ## MobileRobot Movement Snaps:
